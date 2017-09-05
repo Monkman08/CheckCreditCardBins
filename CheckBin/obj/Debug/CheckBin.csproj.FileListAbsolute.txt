@@ -1,0 +1,9 @@
+c:\users\stephen.reardon\documents\visual studio 2013\Projects\CheckBin\CheckBin\bin\Debug\CheckBin.exe
+c:\users\stephen.reardon\documents\visual studio 2013\Projects\CheckBin\CheckBin\bin\Debug\CheckBin.pdb
+c:\users\stephen.reardon\documents\visual studio 2013\Projects\CheckBin\CheckBin\bin\Debug\Newtonsoft.Json.dll
+c:\users\stephen.reardon\documents\visual studio 2013\Projects\CheckBin\CheckBin\bin\Debug\Newtonsoft.Json.xml
+c:\users\stephen.reardon\documents\visual studio 2013\Projects\CheckBin\CheckBin\obj\Debug\CheckBin.exe
+c:\users\stephen.reardon\documents\visual studio 2013\Projects\CheckBin\CheckBin\obj\Debug\CheckBin.pdb
+c:\users\stephen.reardon\documents\visual studio 2013\Projects\CheckBin\CheckBin\obj\Debug\CheckBin.csprojResolveAssemblyReference.cache
+D:\Drive\SR\stephen.reardon\Documents\Visual Studio 2013\Projects\CheckBin\CheckBin\obj\Debug\CheckBin.exe
+D:\Drive\SR\stephen.reardon\Documents\Visual Studio 2013\Projects\CheckBin\CheckBin\obj\Debug\CheckBin.pdb
